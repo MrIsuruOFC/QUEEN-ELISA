@@ -83,7 +83,7 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ'
+global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴇʟɪꜱᴀ-ᴍᴅ'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
@@ -107,9 +107,21 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/nz9tfrW/20231227-145045.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
+
+
+*ʙᴏᴛ ɴᴀᴍᴇ* : Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ
+*ᴠᴇʀꜱɪᴏɴ* : 3.9.6
+*ʙᴏᴛ ᴏᴡɴᴇʀ* : 『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』
+*ɴᴜᴍʙᴇʀ* : http://Wa.me/+94766632281
+*ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
+*ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
+
+*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ*
+
+*Thanks for using Me*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -119,15 +131,15 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94710914276","94766632281"]
 //👇 DISABLE download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = ["xxx","sex","mia","porn","xnxx"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq'
 /*
 
    🍃 OTHER 🍃
@@ -170,7 +182,7 @@ global.mess = {
 
 //other
 global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.premium = ['94766632281'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
