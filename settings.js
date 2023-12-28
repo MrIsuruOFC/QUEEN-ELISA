@@ -107,7 +107,7 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/nz9tfrW/20231227-145045.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/58dZphD/20231228-195502.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 
