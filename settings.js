@@ -113,7 +113,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 
 
 *ʙᴏᴛ ɴᴀᴍᴇ* : Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ
-*ᴠᴇʀꜱɪᴏɴ* : 3.9.6
+*ᴠᴇʀꜱɪᴏɴ* : 3.9.7
 *ʙᴏᴛ ᴏᴡɴᴇʀ* : 『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』
 *ɴᴜᴍʙᴇʀ* : http://Wa.me/+94766632281
 *ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
@@ -121,7 +121,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 
 *ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ*
 
-*Thanks for using Me*`
+*Thanks for using Me.*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
