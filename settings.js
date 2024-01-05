@@ -124,9 +124,9 @@ _____________________
 
 • *𝙱𝙾𝚃 𝙽𝙰𝙼𝙴* : Q̴U̴E̴E̴N̴ E̴L̴I̴S̴A̴
 • *𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝚁𝙻𝙾𝙿𝙴𝚁* : M̴r̴ N̴i̴m̴a̴
-(_https://github.com/DarkMakerofc_)
+( _https://github.com/DarkMakerofc_ )
 • *𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁* : M̴r̴ I̴s̴u̴r̴u̴
-(_https://github.com/MrIsuruOFC_)
+( _https://github.com/MrIsuruOFC_ )
 • *𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿* : _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
 _____________________
 
