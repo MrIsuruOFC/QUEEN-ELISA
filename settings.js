@@ -83,11 +83,11 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ'
+global.cap = '► *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴏꜰᴄ*'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃' 
 //👇 Your name
-global.ownernma =  '『 ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ 』' 
+global.ownernma =  '『 ᴍʀ ɪꜱᴜʀᴜ x 』' 
 //👇 Sticker Author Name
 global.packname =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
 //👇 Inbox Block Massage 
@@ -122,17 +122,17 @@ _____________________
 *✻ And you can get many more features.*
 _____________________
 
-• *𝙱𝙾𝚃 𝙽𝙰𝙼𝙴* : Q̴U̴E̴E̴N̴ E̴L̴I̴S̴A̴
-• *𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝚁𝙻𝙾𝙿𝙴𝚁* : M̴r̴ N̴i̴m̴a̴
-( _https://github.com/DarkMakerofc_ )
-• *𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁* : M̴r̴ I̴s̴u̴r̴u̴
-( _https://github.com/MrIsuruOFC_ )
+• *𝙱𝙾𝚃 𝙽𝙰𝙼𝙴* : 𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃
+• *𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝚁𝙻𝙾𝙿𝙴𝚁* : ᴍʀ ɴɪᴍᴀ x
+_(https://github.com/DarkMakerofc)_
+• *𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁* : ᴍʀ ɪꜱᴜʀᴜ x
+_(https://github.com/MrIsuruOFC)_
 • *𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿* : _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
 _____________________
 
-✧ *If you have a problem, notify to me* : _http://Wa.me/+94766632281_
+✧ *If you have a problem, notify to me* : _https://wa.me/+94766632281?text=_ʜᴇʏ_ɪꜱᴜʀᴜ🐼💞_
 _____________________
-*► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*`
+► *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴏꜰᴄ*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
